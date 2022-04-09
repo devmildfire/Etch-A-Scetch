@@ -1,0 +1,1 @@
+just an easy project of a web game "Etch-A-Scetch" for the Odinproject educationary course
